@@ -1,0 +1,11 @@
+# ninja log v5
+7	744	7029090435895596	CMakeFiles/untitled1.dir/Palazzo.cpp.obj	e98eb3b88eefc129
+290	2971	7030037176127483	build.ninja	abd6c064d7cbe608
+15	1042	7029090655540759	CMakeFiles/untitled1.dir/main2.cpp.obj	630172d1a6734590
+18	1168	7029089856404018	CMakeFiles/untitled1.dir/Stanza.cpp.obj	525c148d69ee5d3
+7	1362	7029090658720753	CMakeFiles/untitled1.dir/Palazzo2.cpp.obj	17fe6c4f0b7ae723
+30	958	7029089854292074	CMakeFiles/untitled1.dir/main.cpp.obj	7c040e158b69b675
+10	219	7029090023173195	CMakeFiles/untitled1.dir/Pavimento.cpp.obj	bec6f86009b8321f
+1363	1644	7029090661450778	untitled1.exe	3785ced410d80ce2
+5	1114	7030037176127483	build.ninja	abd6c064d7cbe608
+11	2887	7030037208137711	untitled1.exe	341825942530dc3d
